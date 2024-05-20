@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\FormLDE\FormLDE\bin\Debug\FormLDE.exe.config
+C:\Users\dell\source\repos\FormLDE\FormLDE\bin\Debug\FormLDE.exe
+C:\Users\dell\source\repos\FormLDE\FormLDE\bin\Debug\FormLDE.pdb
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.Form1.resources
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.Properties.Resources.resources
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.exe
+C:\Users\dell\source\repos\FormLDE\FormLDE\obj\Debug\FormLDE.pdb
