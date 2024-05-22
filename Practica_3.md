@@ -9,7 +9,7 @@ Interfaz de Usuario Web: Crear una página web sencilla con botones para "Encend
 Control del LED: Programar la lógica en C/C++ para que el Pico W pueda encender y apagar el LED basándose en las solicitudes recibidas del servidor web.
 ## Practica
 ![IMG_3964](https://github.com/Sh0cko/Bloque4Team/assets/158124723/95f2a5d2-0523-46bc-a056-e7105fbf6de3)
-![IMG_3963](https://github.com/Sh0cko/Bloque4Team/assets/158124723/4e26506c-fc03-4d9d-8fe7-b07b4fb58ffe)
+![IMG_3965](https://github.com/Sh0cko/Bloque4Team/assets/158124723/de72539c-cef4-430d-a779-52696b8a6605)
 ## Codigos
 ~~~
 
